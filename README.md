@@ -7,7 +7,7 @@ This code is part of Master's Thesis titled *Investigating the Dune Systems of C
 ### Synopsis
 One of the main objectives of my research was to analyze the factors contributing to changes in coastal dunes. To achieve this goal: <br>
 <ul>
-  <li>I applied a one-way ANOVA test on 19 morpho-ecological, oceanographic and meteorological factors to identify which factors have significant variations among four coastal dune classes.</li> <br>
+  <li>I applied a one-way ANOVA test on 19 morpho-ecological, oceanographic and meteorological factors to identify which factors have significant variations between coastal dune classes.</li> <br>
   <li>Furthermore, I conducted a Jackknife Test with XGBoost machine learning model to determine the sensitive factors which have the highest contributions in classifying coastal dunes.</li>
 </ul>
 
